@@ -6,3 +6,6 @@ Shradha Khapra
 
 # Student
  Sigma 8.0
+
+# college
+ Bit Sindri
